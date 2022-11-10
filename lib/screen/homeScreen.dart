@@ -15,7 +15,7 @@ class _screebHomeState extends State<screebHome> {
     return Scaffold(
       body: Container(
         decoration: BoxDecoration(
-          gradient: LinearGradient(colors: Colors.blue)
+          gradient: LinearGradient(colors: Colors.red)
         ),
       ),
     );
